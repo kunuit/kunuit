@@ -1,7 +1,7 @@
 ### Hello, I'm kun 👋
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kunuit)
-[![Linkedin Badge](https://img.shields.io/badge/Hieu%20Dong-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/c%C6%B0%E1%BB%9Dng-v%C5%A9-xu%C3%A2n-9218141aa/)](https://www.linkedin.com/in/c%C6%B0%E1%BB%9Dng-v%C5%A9-xu%C3%A2n-9218141aa/)
+[![Linkedin Badge](https://img.shields.io/badge/CuongVu-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/c%C6%B0%E1%BB%9Dng-v%C5%A9-xu%C3%A2n-9218141aa/)](https://www.linkedin.com/in/c%C6%B0%E1%BB%9Dng-v%C5%A9-xu%C3%A2n-9218141aa/)
 
 <!--
 
@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 <!-- <img align="left" alt="Golang" width="30px" src="https://img.icons8.com/color/48/000000/golang.png" /> -->
 <img align="left" alt="C#" width="30px" src="https://img.icons8.com/color/48/000000/javascript.png" />
 <img align="left" alt="Nodejs" width="30px" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-<img align="left" alt="Angular" width="30px" src="https://img.icons8.com/color/48/000000/react.png"/>
+<!-- <img align="left" alt="Angular" width="30px" src="https://img.icons8.com/color/48/000000/react.png"/> -->
 <br />
