@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 <!-- <img align="left" alt="Golang" width="30px" src="https://img.icons8.com/color/48/000000/golang.png" /> -->
 <img align="left" alt="C#" width="30px" src="https://img.icons8.com/color/48/000000/javascript.png" />
 <img align="left" alt="Nodejs" width="30px" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-<img align="left" alt="Angular" width="30px" src="https://img.icons8.com/color/48/000000/reactjs.png"/>
+<img align="left" alt="Angular" width="30px" src="https://img.icons8.com/color/48/000000/react.png"/>
 <br />
